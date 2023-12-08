@@ -40,9 +40,9 @@ Welcome to the Axon Sales Dashboard Project! This interactive data visualization
 
 2. **Clone Repository:** Clone this repository to your machine.
 
-3. **Open Dashboard:** Use Power BI Desktop to open the project file (`axon-sales-dashboard.pbix`).
+3. **Open Dashboard:** Use Power BI Desktop to open the project file (`axon-sales.pbix`).
 
-4. **Explore and Analyze:** Interact with the dashboard's visualizations to explore your sales data and gain insights.
+5. **Explore and Analyze:** Interact with the dashboard's visualizations to explore your sales data and gain insights.
 
 ## Contributing
 
