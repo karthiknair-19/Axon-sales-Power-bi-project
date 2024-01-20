@@ -7,7 +7,7 @@ Welcome to the Axon Sales Dashboard Project! This interactive data visualization
 ## Screenshots
 
 ### Sales Report Overview
-![Sales Report Overview](https://github.com/karthiknair-19/Axon-sales-Power-bi-project/assets/124065232/56009ee4-230e-412e-ba53-67eb18b381bf)
+![Sales Report Overview](https://github.com/karthiknair-19/Axon-sales-Power-bi-project/assets/124065232/56009ee4-230e-412e-ba53-67eb18b381bf){width=50%}
 
 ### Customer Demographics
 ![Customer Demographics](https://github.com/karthiknair-19/Axon-sales-Power-bi-project/assets/124065232/7eaf66c9-6512-4ed9-8dc8-a4f1157fbcdc)
