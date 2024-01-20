@@ -8,13 +8,14 @@ Welcome to the Axon Sales Dashboard Project! This interactive data visualization
 
 ### Sales Report Overview
 <img src="https://github.com/karthiknair-19/Axon-sales-Power-bi-project/assets/124065232/56009ee4-230e-412e-ba53-67eb18b381bf" alt="Sales Report Overview" width="800"/>
-![Sales Report Overview](https://github.com/karthiknair-19/Axon-sales-Power-bi-project/assets/124065232/56009ee4-230e-412e-ba53-67eb18b381bf){width=50%}
 
 ### Customer Demographics
-![Customer Demographics](https://github.com/karthiknair-19/Axon-sales-Power-bi-project/assets/124065232/7eaf66c9-6512-4ed9-8dc8-a4f1157fbcdc)
+<img src="https://github.com/karthiknair-19/Axon-sales-Power-bi-project/assets/124065232/7eaf66c9-6512-4ed9-8dc8-a4f1157fbcdc" alt="Sales Report Overview" width="800"/>
+
 
 ### Salesperson Performance
-![Salesperson Performance](https://github.com/karthiknair-19/Axon-sales-Power-bi-project/assets/124065232/3c848304-9d54-4a84-8c9e-22f78fe10381)
+<img src="https://github.com/karthiknair-19/Axon-sales-Power-bi-project/assets/124065232/3c848304-9d54-4a84-8c9e-22f78fe10381" alt="Sales Report Overview" width="800"/>
+
 ## Key Features
 
 - **Sales Trends:** Visualize sales performance over time with interactive line charts, enabling you to spot growth patterns and seasonal trends.
