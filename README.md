@@ -5,10 +5,9 @@
 Welcome to the Axon Sales Dashboard Project! This interactive data visualization solution is designed to offer in-depth insights into your Axon sales data. By using Power BI, a leading business intelligence tool, we've created a user-friendly dashboard that transforms complex data into actionable insights.
 
 <div style="display: flex; justify-content: space-between;">
-    <img src="https://github.com/karthiknair-19/Axon-sales-Power-bi-project/assets/124065232/bf38a5d7-27b0-4b92-93d3-b69466764acf" alt="Sales Report Overview" width="400" height="300">
-    <img src="https://github.com/karthiknair-19/Axon-sales-Power-bi-project/assets/124065232/2350ce74-bc60-4d68-aece-c035638a5000" alt="Customer Demographics" width="400" height="300">
-    <img src="https://github.com/karthiknair-19/Axon-sales-Power-bi-project/assets/124065232/313b9389-c32f-4bc9-b33a-cd53137d99f2" alt="Salesperson Performance" width="400" height="300">
-    
+    <img src="https://github.com/karthiknair-19/Axon-sales-Power-bi-project/assets/124065232/56009ee4-230e-412e-ba53-67eb18b381bf" alt="Sales Report Overview" width="300" height="225">
+    <img src="https://github.com/karthiknair-19/Axon-sales-Power-bi-project/assets/124065232/7eaf66c9-6512-4ed9-8dc8-a4f1157fbcdc" alt="Customer Demographics" width="300" height="225">
+    <img src="path/to/salesperson_performance.png" alt="Salesperson Performance" width="300" height="225">
 </div>
 ## Key Features
 
