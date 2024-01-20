@@ -4,11 +4,16 @@
 
 Welcome to the Axon Sales Dashboard Project! This interactive data visualization solution is designed to offer in-depth insights into your Axon sales data. By using Power BI, a leading business intelligence tool, we've created a user-friendly dashboard that transforms complex data into actionable insights.
 
-<div style="display: flex; flex-wrap: wrap;">
-    <img src="https://github.com/karthiknair-19/Axon-sales-Power-bi-project/assets/124065232/56009ee4-230e-412e-ba53-67eb18b381bf" alt="Sales Report Overview" width="300" height="225">
-    <img src="https://github.com/karthiknair-19/Axon-sales-Power-bi-project/assets/124065232/7eaf66c9-6512-4ed9-8dc8-a4f1157fbcdc" alt="Customer Demographics" width="300" height="225">
-    <img src="https://github.com/karthiknair-19/Axon-sales-Power-bi-project/assets/124065232/3c848304-9d54-4a84-8c9e-22f78fe10381" alt="Salesperson Performance" width="300" height="225">
-</div>
+## Screenshots
+
+### Sales Report Overview
+![Sales Report Overview](https://github.com/karthiknair-19/Axon-sales-Power-bi-project/assets/124065232/56009ee4-230e-412e-ba53-67eb18b381bf)
+
+### Customer Demographics
+![Customer Demographics](https://github.com/karthiknair-19/Axon-sales-Power-bi-project/assets/124065232/7eaf66c9-6512-4ed9-8dc8-a4f1157fbcdc)
+
+### Salesperson Performance
+![Salesperson Performance](https://github.com/karthiknair-19/Axon-sales-Power-bi-project/assets/124065232/3c848304-9d54-4a84-8c9e-22f78fe10381)
 ## Key Features
 
 - **Sales Trends:** Visualize sales performance over time with interactive line charts, enabling you to spot growth patterns and seasonal trends.
